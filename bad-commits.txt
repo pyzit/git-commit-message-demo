@@ -49,3 +49,4 @@ bad-commits - fake change 48
 bad-commits - fake change 49
 bad-commits - fake change 50
 bad-commits - fake change 51
+bad-commits - fake change 52
