@@ -1,2 +1,3 @@
 bad-commits - fake change 1
 bad-commits - fake change 2
+bad-commits - fake change 3
